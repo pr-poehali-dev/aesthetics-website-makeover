@@ -20,14 +20,15 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				display: ['Unbounded', 'sans-serif'],
+				display: ['Cormorant', 'serif'],
 				body: ['Golos Text', 'sans-serif'],
 			},
 			colors: {
-				ink: '#0a0a0a',
-				cream: '#f4f1ea',
-				lime: '#c6f432',
-				coral: '#ff5436',
+				ink: '#3a2e22',
+				cream: '#f6efe6',
+				sand: '#e8dccb',
+				gold: '#bd9a5f',
+				caramel: '#a87b4e',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
